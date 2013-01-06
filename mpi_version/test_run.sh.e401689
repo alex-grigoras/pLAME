@@ -1,0 +1,20 @@
+MPI = 2
+
+real	0m15.534s
+user	0m28.618s
+sys	0m0.193s
+MPI = 4
+
+real	0m8.560s
+user	0m29.844s
+sys	0m0.155s
+MPI = 8
+
+real	0m5.525s
+user	0m35.355s
+sys	0m0.294s
+Serial
+
+real	0m27.301s
+user	0m27.083s
+sys	0m0.047s
